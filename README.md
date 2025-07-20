@@ -39,8 +39,7 @@ This project helped me gain hands-on experience with:
 ---
 
 ## 📸 MVP Preview
-
-> 
+[https://www.linkedin.com/posts/hafizmuhammadsubhanzia_saveraapp-mvplaunch-financemadesimple-activity-7352666269201874944-gU7r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAaXjIBBYJFDErPSPSnBrPgFoxGTGE7hQI](https://www.linkedin.com/posts/hafizmuhammadsubhanzia_saveraapp-mvplaunch-financemadesimple-activity-7352666269201874944-gU7r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAaXjIBBYJFDErPSPSnBrPgFoxGTGE7hQI)
 ---
 
 ## 🔐 Ownership Note
